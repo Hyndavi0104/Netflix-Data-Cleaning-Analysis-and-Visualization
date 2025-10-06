@@ -15,16 +15,16 @@ This project analyzes a dataset of Netflix movies and TV shows to uncover patter
 
 ## Data
 The dataset contains information such as:
-- Title
-- Type (Movie or TV Show)
-- Director
-- Cast
-- Country
-- Date Added
-- Release Year
-- Rating
-- Duration
-- Genres/Listed Categories
+-show_id
+-type
+-title
+-director
+-country
+-date_added
+-release_year
+-rating
+-duration
+-listed_in
 
 ---
 
