@@ -14,7 +14,7 @@ This project analyzes a dataset of Netflix movies and TV shows to uncover patter
 ---
 
 ## Data
-The dataset contains information such as:
+The dataset contains information such as:  
 -show_id  
 -type  
 -title  
