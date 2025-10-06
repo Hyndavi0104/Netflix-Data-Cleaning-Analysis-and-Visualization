@@ -9,22 +9,22 @@ This project analyzes a dataset of Netflix movies and TV shows to uncover patter
 - Explore the Netflix dataset and understand its structure.
 - Identify the most common genres and content types.
 - Analyze trends in content release years.
-- Visualize insights using charts and graphs.
+- Visualize insights using charts for better understanding.
 
 ---
 
 ## Data
 The dataset contains information such as:  
--show_id  
--type  
--title  
--director  
--country  
--date_added  
--release_year  
--rating  
--duration  
--listed_in  
+- show_id  
+- type  
+- title  
+- director  
+- country  
+- date_added  
+- release_year  
+- rating  
+- duration  
+- listed_in  
 
 ---
 
@@ -32,10 +32,10 @@ The dataset contains information such as:
 1. **Data Cleaning:** Handle missing values and correct data types.
 2. **Exploratory Data Analysis (EDA):** Summarize data using statistics and visualizations.
 3. **Visualizations:**  
-   - Bar charts for content type distribution and top genres.  
-   - Histograms for release year trends.  
-   - Heatmaps for correlation analysis of numeric features.
+   - **Bar Charts** for content type distribution and top genres.  
+   - **Pie Charts** for proportion of genres and content types.
 4. **Insights Extraction:** Identify hidden patterns and trends in Netflix’s content library.
+
 
 ---
 
